@@ -11,7 +11,6 @@ Output: true
 Example 2:
 
 Input: s = "jar", t = "jam"
-
 Output: false
 Constraints:
 
